@@ -6,7 +6,6 @@ print(name)
 #Delete marks[0] & name[4]
 del marks[0]
 del name[4]
-del marks[2:6]
 #Late element note gona work
 print("After Deleting")
 print(marks)
